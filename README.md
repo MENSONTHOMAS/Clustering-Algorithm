@@ -1,4 +1,4 @@
-# *Clustering-Algorithm*
+# **Clustering-Algorithm**
 
 
 ## How K-Means Clustering Works
@@ -12,7 +12,7 @@ K-Means is an unsupervised clustering algorithm that groups data into K clusters
 
 ## Why K-Means is Suitable for the Iris Dataset
 
-- The Iris dataset contains three natural classes (setosa, versicolor, virginica), which makes it a good candidate for clustering.
+- The Iris dataset contains three natural classes (*setosa, versicolor, virginica*), which makes it a good candidate for clustering.
 - K-Means assumes clusters are spherical and well-separated, which approximates the structure of the Iris dataset.
 - It is computationally efficient and works well with moderate-sized datasets like Iris.
 
